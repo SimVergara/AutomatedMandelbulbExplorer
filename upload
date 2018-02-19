@@ -1,0 +1,3 @@
+scp *.c* vergars@moore.mcmaster.ca:./4F03/Project/
+scp *.h vergars@moore.mcmaster.ca:./4F03/Project/
+scp makefile vergars@moore.mcmaster.ca:./4F03/Project/
